@@ -1,0 +1,14 @@
+{
+  "name": "grok-bot-mastery-landing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Landing page Grok Bot Mastery by KomuniTech",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 43123",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 43123"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
